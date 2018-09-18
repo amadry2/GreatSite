@@ -1,0 +1,82 @@
+body {
+	background-color: orange;
+}
+ul{
+	list-style-type: none;
+	padding: 0;
+}
+li{
+	font-size: 48px;
+	font-family: sans-serif;
+	padding-bottom: 10px;
+}
+a:hover {
+	color: orange;
+}
+.d5fixed {
+	width: 100px;
+	height: 100px;
+	background-color: yellow;
+	position: fixed;
+	top: 500px;
+	left: 500px;
+}
+.d5absolute {
+	width: 100px;
+	height: 100px;
+	background-color: purple;
+	position: absolute;
+	top: 250px
+	left: 250px;
+}
+.d5relative {
+	width: 100px
+	height: 100px;
+	background-color: maroon;
+	position: relative;
+	top: 50px;
+	left: 50px;
+}
+div {
+	width: 100px;
+	height: 100px;
+	position: absolute;
+}
+.white{
+	background-color: white;
+}
+.black {
+	background-color: black;
+}
+
+.square1 {
+	top: 0;
+	left: 0;
+	width: 100px  
+	height: 100px
+}
+
+.square2 {
+	top: 200px;
+	left: 100px;
+}
+
+.square3 {
+	top: 100px;
+	left: 200px; 
+}
+
+.square9 {
+	top: 100px;
+	left: 200px;
+}
+
+.square10 {
+	top: 100px;
+	left: 100px;
+}
+
+.square11 {
+	top: 100px;
+	left: 200px;
+}
