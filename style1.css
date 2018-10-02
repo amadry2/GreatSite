@@ -24,4 +24,10 @@ b {
 a {
 	font-size: 1.2em;
 	font-family: font-family: 'Ranchers', cursive;
+	cursor: default;
+}
+li {
+	font-size: 1.2em;
+	font-family: font-family: 'Ranchers', cursive;
+	list-style-type: none;
 }
