@@ -1,8 +1,21 @@
-* {font-size: 16px}
+* {font-size: 20px}
 body {
-	margin: 50px;
+	margin: 150px;
+	background-color: pink;
 }
 h1 {
 	font-family: 'Luckiest Guy', cursive;
 	font-size: 3.6em;
+}
+h3 {
+	font-size: 1.1em;
+	font-family: 'Luckiest Guy', cursive;
+}
+h5 {
+	font-size: 1.2em;
+	font-family: font-family: 'Ranchers', cursive;
+}
+b {
+	font-family: 'Ranchers', cursive;
+	font-size: 1.4em;
 }
