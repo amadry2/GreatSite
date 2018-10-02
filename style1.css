@@ -2,6 +2,8 @@
 body {
 	margin: 150px;
 	background-color: pink;
+	font-size: 1.2em;
+	font-family: font-family: 'Ranchers', cursive;
 }
 h1 {
 	font-family: 'Luckiest Guy', cursive;
@@ -18,4 +20,8 @@ h5 {
 b {
 	font-family: 'Ranchers', cursive;
 	font-size: 1.4em;
+}
+a {
+	font-size: 1.2em;
+	font-family: font-family: 'Ranchers', cursive;
 }
