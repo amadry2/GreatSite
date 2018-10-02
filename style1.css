@@ -1,15 +1,19 @@
 * {font-size: 20px}
 body {
 	margin: 150px;
-	background-color: pink;
 	font-size: 1.2em;
+	background: url(https://www.publicdomainpictures.net/pictures/170000/nahled/pig-skin-background-1463074481Jur.jpg) no-repeat center center fixed;
+	background-size: cover;
+	height: 100%;
 }
 h1 {
 	font-family: 'Luckiest Guy', cursive;
 	font-size: 3.6em;
+	letter-spacing: 5px;
 }
 h3 {
 	font-size: 1.1em;
+	letter-spacing: 2px;
 	font-family: 'Luckiest Guy', cursive;
 }
 h5 {
@@ -22,11 +26,11 @@ b {
 }
 a {
 	font-size: 1.1em;
-	font-family: font-family: 'Ranchers', cursive;
 	cursor: default;
 	color: black;
-	text-decoration: none;
+	text-decoration-style: double;
 	transition: .5s ease;
+	opacity: 50%;
 }
 a:hover {
 	color: green;
