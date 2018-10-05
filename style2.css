@@ -1,36 +1,47 @@
-* {font-size: 20px}
+* {font-size: 30px}
 body {
 	margin: 150px;
 	background-color: pink;
 	font-size: 1.2em;
+	color: dimgrey;
 }
-h1 {
-	font-family: 'Luckiest Guy', cursive;
-	font-size: 3.6em;
-}
-h3 {
-	font-size: 1.1em;
-	font-family: 'Luckiest Guy', cursive;
-}
-h5 {
-	font-size: 1.2em;
-	font-family: font-family: 'Ranchers', cursive;
-}
+
 li {
 	font-size: 1.2em;
-	font-family: font-family: 'Ranchers', cursive;
+	font-family: 'Patrick Hand', cursive;
+	list-style-type: none;
+	line-height: -20px;
+}
+
+b {
+		font-size: 1.2em;
+	font-family: 'Patrick Hand', cursive;
 	list-style-type: none;
 	line-height: -5px;
 }
+
 a {
 	font-size: 1em;
-	font-family: font-family: 'Ranchers', cursive;
 	cursor: default;
-	color: black;
+	color: dimgrey;
 	text-decoration: none;
 	transition: .5s ease;
 }
 a:hover {
-	color: tan;
+	color: khaki;
 	border-bottom-style: dotted; 
+}
+
+.brown:hover {
+	color: saddlebrown;
+	border-bottom-style: dotted;
+}
+
+.red:hover {
+	color: darkred;
+	border-bottom-style: dotted;
+}
+
+ul {
+	line-height: -20px;
 }
