@@ -1,0 +1,34 @@
+* {
+	background-color: orange;
+}
+
+	body {
+		margin: 65px 20%;
+		color: black;
+		font-family: 'Righteous', cursive;
+	}
+
+	.title {
+		font-size: 30px;
+	}
+
+	.intro {
+		font-size: 20px;
+	}
+
+	h1 {
+		font-size: 3.5em;
+	}
+
+	b {
+		font-size: 1.3em;
+	}
+	ul {
+		font-family: 'Righteous', cursive;
+	}
+	</style>
+
+	img {
+		width: 900px;
+		height: 900px;
+	}
