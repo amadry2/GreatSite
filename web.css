@@ -1,15 +1,28 @@
 * {box-sizing: border-box;}
 
 body {
-	background-image: linear-gradient(to right, yellow, orange, red);
+	background-image: linear-gradient(to right, orange, yellow, orange);
+}
+
+.Title {
+	font-family: 'Special Elite', cursive;
+	font-size: 40px;
 }
 
 .para1 {
 	font-size: 30px;
+	margin-left: 15vw;
+	margin-right: 15vw;
+	margin-bottom: 1.5vw;
+	margin-top: 1vw;  
 }
 
 .Redemption {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 1vw
 	width: 50vw;
 	height: 30vw;
-	position: right;
 }
+
