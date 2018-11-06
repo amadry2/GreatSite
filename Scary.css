@@ -1,0 +1,54 @@
+* {box-sizing: border-box;}
+
+body {
+	margin: 0;
+	background-color: grey; 
+}
+
+div {
+	float: left;
+}
+
+.container {
+	width: 800px;
+}
+
+.square1 {
+	background-color: dimgrey;
+	width: 50px;
+	height: 50px;
+	border: solid dimgrey;
+	position: relative;
+	top: 30px;
+	left: 20px;
+	align-content: center;
+}
+
+.main {
+	background-color: darkslategray;
+	width: 200px;
+	height: 800px;
+	float: middle;
+	bottom: -100px;
+}
+
+.square2 {
+	background-color: chocolate;
+	width: 50px;
+	height: 50px;
+	border: solid chocolate;
+	position: relative;
+	bottom: -200px;
+	left: -30px;
+}
+
+.square3 {
+	background-color: dimgrey;
+	width: 50px;
+	height: 50px;
+	border: solid dimgrey;
+	position: relative;
+	top: 325px;
+	left: 20px;
+	align-content: center;
+}
