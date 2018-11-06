@@ -1,5 +1,15 @@
 * {box-sizing: border-box;}
 
 body {
-	background-image: linear-gradient(to right, orange, yellow, red);
+	background-image: linear-gradient(to right, yellow, orange, red);
+}
+
+.para1 {
+	font-size: 30px;
+}
+
+.Redemption {
+	width: 50vw;
+	height: 30vw;
+	position: center;
 }
