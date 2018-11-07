@@ -8,13 +8,14 @@ body {
 	font-family: 'Special Elite', cursive;
 	font-size: 40px;
 	margin-left: 20vw;
+	margin-top: 5vw;
 
 }
 
 .para1 {
 	font-size: 30px;
-	margin-left: 15vw;
-	margin-right: 15vw;
+	margin-left: 20vw;
+	margin-right: 20vw;
 	margin-bottom: 1.5vw;
 	margin-top: 1vw;  
 }
