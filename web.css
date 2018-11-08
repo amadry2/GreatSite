@@ -26,6 +26,7 @@ body {
 	margin-right: 15vw;
 	margin-bottom: 1.5vw;
 	margin-top: 1vw;  
+	float: left;
 }
 
 .Redemption {
@@ -38,8 +39,20 @@ body {
 }
 
 .Red {
-
+	float: right;
+	margin-left: auto;
+	width: 50vw;
+	height: 40vw;
 }
+
+.para3 {
+		font-size: 30px;
+	margin-left: 20vw;
+	margin-right: 20vw;
+	margin-bottom: 1.5vw;
+	margin-top: 1vw;  
+}
+
 @media only screen and (max-width: 1068) {
  body {
  	hhh
