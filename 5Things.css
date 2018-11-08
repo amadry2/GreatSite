@@ -1,0 +1,22 @@
+body {
+	margin: 0;
+	font-size: 24px;
+	background-color: forestgreen;
+}
+
+
+.box {
+	width: 100vw;
+	height: 100vw;
+	background-color: teal;
+}
+
+.Insects {
+	font-color: yellow;
+}
+
+h1, h2, h3, h4, h5 {
+	font-family: sans-serif;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
