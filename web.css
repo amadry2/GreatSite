@@ -135,7 +135,8 @@ body {
 
 @media only screen and (max-width: 320) {
  body {
- 	.Title {
+
+ 	.Title{
 	font-family: 'Special Elite', cursive;
 	font-size: 20px;
 	margin-left: 20vw;
@@ -266,13 +267,268 @@ body {
 
  }
 
- @media only screen and (max-width: 1440) {
- body {
- 	hhh
- }
-
  @media only screen and (max-width: 1068) {
  body {
- 	hhh
+
+ 	.Title {
+	font-family: 'Special Elite', cursive;
+	font-size: 70px;
+	margin-left: 50vw;
+	margin-top: 5vw;
+
+}
+
+.para1 {
+	font-size: 60px;
+	margin-left: 50vw;
+	margin-right: 50vw;
+	margin-bottom: 1.5vw;
+	margin-top: 1vw;  
+}
+
+.para2 {
+	font-size: 60px;
+	margin-left: 50vw;
+	margin-right: 50vw;
+	margin-bottom: 1.5vw;
+	margin-top: 1vw;  
+	float: left;
+}
+
+.Redemption {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 1vw
+	width: 50vw;
+	height: 30vw;
+}
+
+.Red {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50vw;
+	height: 30vw;
+	margin-bottom: 0.5vw;
+
+}
+
+.para3 {
+	font-size: 60px;
+	margin-left: 50vw;
+	margin-right: 50vw;
+	margin-bottom: 1.5vw;
+	margin-top: 5vw;  
+}
+
+.para4 {
+	font-size: 60px;
+	margin-left: 50vw;
+	margin-right: 50vw;
+	margin-bottom: 1.5vw;
+	margin-top: 1vw;  
+}
+
+.tweet1 {
+	font-size: 60px;
+	margin-left: 50vw;
+	margin-right: 50vw;
+	margin-bottom: 1.5vw;
+	margin-top: 1vw;
+	background-color: dodgerblue;
+}
+
+.tweet2 {
+	font-size: 60px;
+	margin-left: 50vw;
+	margin-right: 50vw;
+	margin-bottom: 1.5vw;
+	margin-top: 1vw;
+	background-color: dodgerblue;
+} 
+
+.tweet3 {
+	font-size: 60px;
+	margin-left: 50vw;
+	margin-right: 50vw;
+	margin-bottom: 1.5vw;
+	margin-top: 1vw;
+	background-color: dodgerblue;
+}
+
+.tweet4 {
+	font-size: 60px;
+	margin-left: 50vw;
+	margin-right: 50vw;
+	margin-bottom: 1.5vw;
+	margin-top: 1vw;
+	background-color: dodgerblue;
+}
+
+.para5 {
+	font-size: 60px;
+	margin-left: 50vw;
+	margin-right: 50vw;
+	margin-bottom: 1.5vw;
+	margin-top: 1vw; 
+}
+
+.para6 {
+	font-size: 60px;
+	margin-left: 50vw;
+	margin-right: 50vw;
+	margin-bottom: 1.5vw;
+	margin-top: 1vw; 
+}
+
+.Dead {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 85vw;
+	height: 60vw;
+	margin-bottom: 0.5vw;
+}
+
+.para7 {
+	font-size: 60px;
+	margin-left: 50vw;
+	margin-right: 50vw;
+	margin-bottom: 1.5vw;
+	margin-top: 1vw; 
+}
+ }
+
+ @media only screen and (max-width: 1440) {
+ body {
+ 	
+    .Title {
+	font-family: 'Special Elite', cursive;
+	font-size: 100px;
+	margin-left: 20vw;
+	margin-top: 5vw;
+}
+
+.para1 {
+	font-size: 90px;
+	margin-left: 20vw;
+	margin-right: 20vw;
+	margin-bottom: 1.5vw;
+	margin-top: 1vw;  
+}
+
+.para2 {
+	font-size: 90px;
+	margin-left: 20vw;
+	margin-right: 20vw;
+	margin-bottom: 1.5vw;
+	margin-top: 1vw;  
+	float: left;
+}
+
+.Redemption {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 1vw
+	width: 50vw;
+	height: 30vw;
+}
+
+.Red {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50vw;
+	height: 30vw;
+	margin-bottom: 0.5vw;
+
+}
+
+.para3 {
+	font-size: 90px;
+	margin-left: 20vw;
+	margin-right: 20vw;
+	margin-bottom: 1.5vw;
+	margin-top: 5vw;  
+}
+
+.para4 {
+	font-size: 90px;
+	margin-left: 20vw;
+	margin-right: 20vw;
+	margin-bottom: 1.5vw;
+	margin-top: 1vw;  
+}
+
+.tweet1 {
+	font-size: 90px;
+	margin-left: 20vw;
+	margin-right: 20vw;
+	margin-bottom: 1.5vw;
+	margin-top: 1vw;
+	background-color: dodgerblue;
+}
+
+.tweet2 {
+	font-size: 90px;
+	margin-left: 20vw;
+	margin-right: 20vw;
+	margin-bottom: 1.5vw;
+	margin-top: 1vw;
+	background-color: dodgerblue;
+} 
+
+.tweet3 {
+	font-size: 90px;
+	margin-left: 20vw;
+	margin-right: 20vw;
+	margin-bottom: 1.5vw;
+	margin-top: 1vw;
+	background-color: dodgerblue;
+}
+
+.tweet4 {
+	font-size: 90px;
+	margin-left: 20vw;
+	margin-right: 20vw;
+	margin-bottom: 1.5vw;
+	margin-top: 1vw;
+	background-color: dodgerblue;
+}
+
+.para5 {
+	font-size: 90px;
+	margin-left: 20vw;
+	margin-right: 20vw;
+	margin-bottom: 1.5vw;
+	margin-top: 1vw; 
+}
+
+.para6 {
+	font-size: 90px;
+	margin-left: 20vw;
+	margin-right: 20vw;
+	margin-bottom: 1.5vw;
+	margin-top: 1vw; 
+}
+
+.Dead {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 115vw;
+	height: 90vw;
+	margin-bottom: 0.5vw;
+}
+
+.para7 {
+	font-size: 90px;
+	margin-left: 20vw;
+	margin-right: 20vw;
+	margin-bottom: 1.5vw;
+	margin-top: 1vw; 
+}
  }
 }
