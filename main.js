@@ -24,6 +24,13 @@ function interactions() {
 function interactions() {
     $('#number2').click(function(){
         $('.Mammal').toggleClass('GreenBG');
-        console.log('hovered');
+        console.log('clicked');
+    });
+}
+
+function interactions() {
+    $('#title').click(function(){
+        $('.Header').toggleClass('HoverPlz');
+        console.log('clicked');
     });
 }
