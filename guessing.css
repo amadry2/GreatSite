@@ -53,3 +53,13 @@ body {
 	margin-top: 1.4vw;
 	margin-left: 35vw;
 }
+
+.Win {
+	background-color: turquoise;
+	font-size: 60vw;
+}
+
+.Lose {
+	background-color: turquoise;
+	font-size:60vw; 
+}
