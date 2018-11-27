@@ -1,3 +1,55 @@
+* {
+	font-size: 40px;
+}
+
 body {
 	background-color: forestgreen;
+}
+
+.main {
+	background-color: green;
+}
+
+.behold {
+	width: 1500px;
+	height: 400px;
+	margin-left: 5vw;
+	margin-right: 20vw;
+	margin-bottom: -10vw;
+	margin-top: 1vw; 
+}
+
+.lion {
+	background-color: yellow;
+	width: 350px;
+	margin-top: 1.4vw;
+	margin-left: 35vw;
+}
+
+.bull {
+	background-color: saddlebrown;
+	width: 350px;
+	margin-top: 1.4vw;
+	margin-left: 35vw;
+}
+
+.hippo {
+	background-color: purple;
+	width: 390px;
+	margin-top: 1.4vw;
+	margin-left: 35vw;
+}
+
+.monkey {
+	background-color: orange;
+	width: 410px;
+	margin-top: 1.4vw;
+	margin-left: 35vw;
+}
+
+.mosquito {
+	background-color: red;
+	width: 445px;
+	margin-top: 1.4vw;
+	margin-left: 35vw;
 }
