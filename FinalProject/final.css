@@ -1,17 +1,149 @@
 * {
-	font-size: 80vw;
-	background-color: cornflowerblue;
-
+	font-size: 0.5vw;
+	background-color: black;
 }
 
 body {
-	background-color: cornflowerblue;
+	background-color: black;
+}
+
+.Title {
+	font-size: 5vw;
+	font-family: 'Press Start 2P', cursive;
+	color: yellow;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 40px;
+	width: 25%
 }
 
 .About {
-	background-color: cornflowerblue;
-	width: 410px;
-	margin-top: 1.4vw;
-	margin-left: 35vw;
-	font-size: 75vw;
+	width: 50vw;
+	font-size: 2.0vw;
+	font-family: 'VT323', monospace;
+	color: yellow;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 50px;
+	margin-top: 50px;
 }
+
+.Pacman {
+	width: 770px;
+	height: 470px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.TF2 {
+	width: 770px;
+	height: 470px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.Player1 {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-size: 50px;
+    font-family: 'VT323', monospace;
+    margin: 4px 2px;
+    background-color: red;
+}
+
+.Player1 {border-radius: 4px;}
+.Player1 {border-radius: 8px;}
+.Player1 {border-radius: 16px;}
+.Player1 {border-radius: 24px;}
+.Player1 {border-radius: 100%;}
+
+.Player2 {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-size: 50px;
+    font-family: 'VT323', monospace;
+    margin: 80px 60px;
+    background-color: blue;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+
+.Player2 {border-radius: 4px;}
+.Player2 {border-radius: 8px;}
+.Player2 {border-radius: 16px;}
+.Player2 {border-radius: 24px;}
+.Player2 {border-radius: 100%;}
+
+.Player3 {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-size: 50px;
+    font-family: 'VT323', monospace;
+    margin: 90px 70px;
+    background-color: gold;
+    margin-top: -50vw;
+    margin-left: 1200px;
+    margin-right: auto;
+}
+
+.Player3 {border-radius: 4px;}
+.Player3 {border-radius: 8px;}
+.Player3 {border-radius: 16px;}
+.Player3 {border-radius: 24px;}
+.Player3 {border-radius: 100%;}
+
+
+
+
+.TitlePage {
+	font-family: 'Press Start 2P', cursive;
+	font-size: 8vw;
+	font-color: white;
+
+}
+
+.Player4 {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-size: 50px;
+    font-family: 'VT323', monospace;
+    margin: 90px 70px;
+    background-color: gold;
+    margin-top: -50vw;
+    margin-left: 120px;
+    margin-right: auto;
+}
+
+.Player4 {border-radius: 4px;}
+.Player4 {border-radius: 8px;}
+.Player4 {border-radius: 16px;}
+.Player4 {border-radius: 24px;}
+.Player4 {border-radius: 100%;}
