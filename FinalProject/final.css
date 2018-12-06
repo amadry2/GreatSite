@@ -7,6 +7,8 @@ body {
 	background-color: black;
 }
 
+
+/*About Page*/
 .Title {
 	font-size: 5vw;
 	font-family: 'Press Start 2P', cursive;
@@ -46,82 +48,51 @@ body {
 	margin-right: auto;
 }
 
-.Player1 {
-    background-color: #4CAF50;
-    border: none;
+.nav {
+	position: relative;
+}
+
+button {
+	border: none;
     color: white;
     padding: 20px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;
     font-size: 50px;
     font-family: 'VT323', monospace;
-    margin: 4px 2px;
+    border-radius: 100%;
+    margin-left: 20px;
+    margin-top: 40px;
+
+}
+
+.Player1 {
     background-color: red;
 }
 
-.Player1 {border-radius: 4px;}
-.Player1 {border-radius: 8px;}
-.Player1 {border-radius: 16px;}
-.Player1 {border-radius: 24px;}
-.Player1 {border-radius: 100%;}
-
 .Player2 {
-    background-color: #4CAF50;
-    border: none;
-    color: white;
-    padding: 20px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    font-size: 50px;
-    font-family: 'VT323', monospace;
-    margin: 80px 60px;
     background-color: blue;
-    margin-top: 20px;
-    margin-left: 100px;
+    right: 10px;
 }
-
-.Player2 {border-radius: 4px;}
-.Player2 {border-radius: 8px;}
-.Player2 {border-radius: 16px;}
-.Player2 {border-radius: 24px;}
-.Player2 {border-radius: 100%;}
 
 .Player3 {
-    background-color: #4CAF50;
-    border: none;
-    color: white;
-    padding: 20px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    font-size: 50px;
-    font-family: 'VT323', monospace;
-    margin: 90px 70px;
     background-color: gold;
-    margin-top: -50vw;
-    margin-left: 1200px;
-    margin-right: auto;
+    position: absolute;
+    right: 20px;
 }
-
-.Player3 {border-radius: 4px;}
-.Player3 {border-radius: 8px;}
-.Player3 {border-radius: 16px;}
-.Player3 {border-radius: 24px;}
-.Player3 {border-radius: 100%;}
+/*End of About Page*/
 
 
 
 
 .TitlePage {
 	font-family: 'Press Start 2P', cursive;
-	font-size: 8vw;
-	font-color: white;
-
+	font-size: 6vw;
+	color: white;
+	margin-top: 50px;
+	margin-right: 5em;
+	margin-left: 5.3em;
 }
 
 .Player4 {
@@ -136,9 +107,9 @@ body {
     font-size: 50px;
     font-family: 'VT323', monospace;
     margin: 90px 70px;
-    background-color: gold;
-    margin-top: -50vw;
-    margin-left: 120px;
+    background-color: red;
+    margin-top: 5vw;
+    margin-left: 11.5em;
     margin-right: auto;
 }
 
@@ -147,3 +118,25 @@ body {
 .Player4 {border-radius: 16px;}
 .Player4 {border-radius: 24px;}
 .Player4 {border-radius: 100%;}
+
+
+
+
+
+.box1 {
+	background-color: salmon;
+	margin-right: 180em;
+}
+
+.Mario {
+	background-color: salmon;
+}
+
+.box2 {
+	background-color: grey;
+}
+
+.Skyrim {
+	background-color: grey;
+	margin-right: 180em;
+}
