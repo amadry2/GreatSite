@@ -1,0 +1,197 @@
+/*General Page*/
+* {
+	font-size: 0.5vw;
+	background-color: black;
+}
+
+body {
+	background-color: black;
+}
+/*End of General Page*/
+
+
+
+/*About Page*/
+.Title {
+	font-size: 5vw;
+	font-family: 'Press Start 2P', cursive;
+	color: yellow;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 40px;
+	width: 25%
+}
+
+.About {
+	width: 50vw;
+	font-size: 2.0vw;
+	font-family: 'VT323', monospace;
+	color: yellow;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 50px;
+	margin-top: 50px;
+}
+
+.Pacman {
+	width: 770px;
+	height: 470px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.TF2 {
+	width: 770px;
+	height: 470px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+button {
+	border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 50px;
+    font-family: 'VT323', monospace;
+    border-radius: 100%;
+    margin-left: 20px;
+    margin-top: 40px;
+
+}
+
+.Player1, .Player2, .Player3 {
+	position: relative;
+	top: -30px;
+}
+
+.Player1 {
+    background-color: red;
+    left: 2.5em;
+}
+
+.Player2 {
+    background-color: blue;
+    left: 9.5em;
+}
+
+.Player3 {
+    background-color: gold;
+    position: relative;
+    left: 15.8em; 
+}
+/*End of About Page*/
+
+
+
+/*Title Page*/
+.TitlePage {
+	font-family: 'Press Start 2P', cursive;
+	font-size: 6vw;
+	color: white;
+	margin-top: 50px;
+	margin-right: 5em;
+	margin-left: 5.3em;
+}
+
+.Player4 {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-size: 50px;
+    font-family: 'VT323', monospace;
+    margin: 90px 70px;
+    background-color: red;
+    margin-top: 5vw;
+    margin-left: 11.5em;
+    margin-right: auto;
+}
+
+.Player4 {border-radius: 4px;}
+.Player4 {border-radius: 8px;}
+.Player4 {border-radius: 16px;}
+.Player4 {border-radius: 24px;}
+.Player4 {border-radius: 100%;}
+/*End of Title Page*/
+
+
+
+/*Transition Page*/
+img {
+	width: 38.5em;
+	border-radius: 35px;
+	margin-top: 40px;
+	position: relative;
+}
+
+.Mario {
+	background-color: red;
+	margin-top: 60px;
+	height: 43em;
+	margin-left: 45.5em;
+}
+
+
+.Skyrim {
+	background-color: grey;
+	height: 55.5em;
+	margin-left: 4em;
+}
+
+.Sonic {
+	height: 40em;
+	background-color: blue;
+	margin-left: 45.5em;
+	top: 35em;
+}
+
+.Megaman {
+	height: 40em;
+	background-color: dodgerblue;
+	margin-left: 100.5em;
+	bottom: 11em;
+}
+
+.GTA {
+	background-color: darkolivegreen;
+	bottom: 90em;
+	margin-left: 4em;
+}
+
+.LOL {
+	background-color: darkmagenta;
+	bottom: 165em;
+	left: 75em;
+}
+
+.Halo {
+	background-color: olivedrab;
+	bottom: 140.4vw;
+	left: 100em;
+}
+
+.Creed {
+	background-color: powderblue;
+	height: 45em;
+	bottom: 140vw;
+	left: 153em;
+}
+
+.Final {
+	background-color: midnightblue;
+	bottom: 140vw;
+	left: 153em;
+	height: 40em;
+}
+/*End of Transition Page*/
