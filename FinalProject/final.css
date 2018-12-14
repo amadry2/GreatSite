@@ -51,10 +51,6 @@ body {
 	margin-right: auto;
 }
 
-.nav {
-	position: relative;
-}
-
 button {
 	border: none;
     color: white;
@@ -76,13 +72,14 @@ button {
 
 .Player2 {
     background-color: blue;
-    right: 10em;
+    position: relative;
+    left: 8.5em;
 }
 
 .Player3 {
     background-color: gold;
-    position: absolute;
-    right: 20px;
+    position: relative;
+    left: 16.8em; 
 }
 /*End of About Page*/
 
@@ -126,18 +123,70 @@ button {
 
 
 /*Transition Page*/
-.Bg {
-	color: dodgerblue;
+img {
+	width: 38.5em;
+	border-radius: 35px;
+	margin-top: 40px;
+	position: relative;
 }
 
 .Mario {
 	background-color: red;
 	margin-top: 60px;
+	height: 43em;
+	margin-left: 45.5em;
 }
 
 
 .Skyrim {
 	background-color: grey;
-	margin-right: -180em;
+	height: 55.5em;
+	margin-left: 4em;
+}
+
+.Sonic {
+	height: 40em;
+	background-color: blue;
+	margin-left: 45.5em;
+	top: 35em;
+}
+
+.Megaman {
+	height: 40em;
+	background-color: dodgerblue;
+	margin-left: 100.5em;
+	bottom: 11em;
+}
+
+.GTA {
+	background-color: darkolivegreen;
+	bottom: 90em;
+	margin-left: 4em;
+}
+
+.LOL {
+	background-color: darkmagenta;
+	bottom: 165em;
+	left: 75em;
+}
+
+.Halo {
+	background-color: olivedrab;
+	bottom: 140.4vw;
+	left: 100em;
+}
+
+.Creed {
+	background-color: powderblue;
+	height: 45em;
+	bottom: 140vw;
+	left: 153em;
+}
+
+.Final {
+	background-color: midnightblue;
+	bottom: 140vw;
+	left: 153em;
+	height: 40em;
 }
 /*End of Transition Page*/
