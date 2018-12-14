@@ -8,10 +8,11 @@
 }
 
 .PictureMario {
-	width: 27em;
-	height: 10.9em;
+	width: 16.8em;
+	height: 7.9em;
 	position: relative;
-	margin-left: 3.2em;
+	margin-left: 8.5em;
+	margin-right: 12em;
 }
 
 .Info1 {
@@ -20,8 +21,8 @@
 	font-family: 'VT323', monospace;
 	color: white;
 	display: block;
-	margin-right: auto;
-	margin-left: 10.8em;
+	margin-right: 7em;
+	margin-left: 10em;
 	margin-bottom: 40px;
 	margin-top: 40px;
 }
@@ -43,3 +44,7 @@
 }
 
 .Player4 {border-radius: 100%;}
+
+a:hover {
+	cursor: move;
+}
