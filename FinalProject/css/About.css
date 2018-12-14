@@ -1,0 +1,45 @@
+* {
+	font-size: 50px;
+}
+
+/*Super Mario Page*/
+.red {
+	background-color: tomato;
+}
+
+.PictureMario {
+	width: 27em;
+	height: 10.9em;
+	position: relative;
+	margin-left: 3.2em;
+}
+
+.Info1 {
+	width: 50vw;
+	font-size: 2.5vw;
+	font-family: 'VT323', monospace;
+	color: white;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 40px;
+	margin-top: 40px;
+}
+
+.Player4 {
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 50px;
+    font-family: 'VT323', monospace;
+    background-color: blue;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 15.5em;
+    margin-right: 10em;
+}
+
+.Player4 {border-radius: 100%;}

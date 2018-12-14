@@ -66,20 +66,25 @@ button {
 
 }
 
+.Player1, .Player2, .Player3 {
+	position: relative;
+	top: -30px;
+}
+
 .Player1 {
     background-color: red;
+    left: 2.5em;
 }
 
 .Player2 {
     background-color: blue;
-    position: relative;
-    left: 8.5em;
+    left: 9.5em;
 }
 
 .Player3 {
     background-color: gold;
     position: relative;
-    left: 16.8em; 
+    left: 15.8em; 
 }
 /*End of About Page*/
 
@@ -190,3 +195,15 @@ img {
 	height: 40em;
 }
 /*End of Transition Page*/
+
+
+
+/*Super Mario Bros Page*/
+.Info1 {
+	color: white;
+}
+
+.red {
+	background-color: salmon
+}
+/*End of Super Mario Bros Page*/
