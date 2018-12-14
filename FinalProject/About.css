@@ -45,6 +45,13 @@
 
 .Player4 {border-radius: 100%;}
 
+a {
+	font-size: 1em;
+	cursor: auto;
+	text-decoration: none;
+	transition: .5s ease;
+}
+
 a:hover {
-	cursor: move;
+	font-color: dodgerblue;
 }

@@ -86,6 +86,17 @@ button {
     position: relative;
     left: 15.8em; 
 }
+
+a {
+	font-size: 1em;
+	cursor: auto;
+	text-decoration: none;
+	transition: .5s ease;
+}
+
+a:hover {
+	font-color: dodgerblue;
+}
 /*End of About Page*/
 
 
