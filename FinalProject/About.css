@@ -2,6 +2,22 @@
 	font-size: 50px;
 }
 
+/*General Info*/
+.Info1 {
+	width: 50vw;
+	font-size: 2.5vw;
+	font-family: 'VT323', monospace;
+	color: white;
+	display: block;
+	margin-right: 7em;
+	margin-left: 10em;
+	margin-bottom: 40px;
+	margin-top: 40px;
+}
+
+
+/*End of General Info*/
+
 /*Super Mario Page*/
 .red {
 	background-color: tomato;
@@ -15,17 +31,7 @@
 	margin-right: 12em;
 }
 
-.Info1 {
-	width: 50vw;
-	font-size: 2.5vw;
-	font-family: 'VT323', monospace;
-	color: white;
-	display: block;
-	margin-right: 7em;
-	margin-left: 10em;
-	margin-bottom: 40px;
-	margin-top: 40px;
-}
+
 
 .Player4 {
     border: none;
@@ -71,10 +77,21 @@ a:hover {
 	margin-left: 7em;
 	margin-right: 12em;
 }
-
 /*End of Skyrim Page*/
+
+
 
 /*Sonic the Hedgehog Page*/
 .blue {
-	background-color: blue;
+	background-color: royalblue;
 }
+
+.PictureSonic {
+	width: 14.4em;
+	height: 8.5em;
+	position: relative;
+	margin-left: 7.5em;
+	margin-right: 10em;
+}
+
+/*End of Sonic the Hedgehog*/
