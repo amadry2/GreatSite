@@ -39,7 +39,7 @@
     background-color: blue;
     margin-top: 10px;
     margin-bottom: 20px;
-    margin-left: 15.5em;
+    margin-left: 15em;
     margin-right: 10em;
 }
 
@@ -55,3 +55,21 @@ a {
 a:hover {
 	font-color: dodgerblue;
 }
+/*End of Super Mario Page*/
+
+
+
+/*Skyrim Page*/
+.gray {
+	background-color: gray;
+}
+
+.PictureSkyrim {
+	width: 16.8em;
+	height: 7.9em;
+	position: relative;
+	margin-left: 7em;
+	margin-right: 12em;
+}
+
+/*And of Skyrim Page*/
