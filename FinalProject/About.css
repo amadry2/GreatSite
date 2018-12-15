@@ -2,6 +2,8 @@
 	font-size: 50px;
 }
 
+
+
 /*General Info*/
 .Info1 {
 	width: 50vw;
@@ -45,22 +47,10 @@ a:hover {
 }
 /*End of General Info*/
 
-/*Super Mario Page*/
-.red {
-	background-color: tomato;
-}
 
-.PictureMario {
-	width: 16.8em;
-	height: 7.9em;
-	position: relative;
-	margin-left: 8.5em;
-	margin-right: 12em;
-}
-/*End of Super Mario Page*/
 
 /*Sizes*/
-.PictureSkyrim, .PictureSonic, .PictureMega, .PictureFinal, .PictureHalo, .PictureGTA {
+.PictureSkyrim, .PictureSonic, .PictureMega, .PictureFinal, .PictureHalo, .PictureGTA, .PictureCreed, .PictureMario {
 	width: 14.4em;
 	height: 8.5em;
 	position: relative;
@@ -123,3 +113,18 @@ a:hover {
 	background-color: darkolivegreen;
 }
 /*End of Grand Theft Auto Page*/
+
+
+
+/*Assassins Creed Page*/
+.powder {
+	background-color: powderblue;
+}
+/*End of Assassins Creed Page*/
+
+
+/*Super Mario Page*/
+.tomato {
+	background-color: tomato;
+}
+/*End of Super Mario Page*/
