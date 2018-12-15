@@ -60,7 +60,7 @@ a:hover {
 /*End of Super Mario Page*/
 
 /*Sizes*/
-.PictureSkyrim, .PictureSonic, .PictureMega, .PictureFinal, .PictureHalo {
+.PictureSkyrim, .PictureSonic, .PictureMega, .PictureFinal, .PictureHalo, .PictureGTA {
 	width: 14.4em;
 	height: 8.5em;
 	position: relative;
@@ -85,11 +85,14 @@ a:hover {
 /*End of Sonic the Hedgehog*/
 
 
+
 /*Megaman Page*/
 .blue2 {
 	background-color: dodgerblue;
 }
 /*End of Meg Man*/
+
+
 
 /*Final Fantasy Page*/
 .navy {
@@ -97,14 +100,26 @@ a:hover {
 }
 /*End of Final Fantasy Page
 
+
+
 /*LOL Page*/
 .purple {
 	background-color: darkmagenta;
 }
 /*End of LOL page*/
 
+
+
 /*Halo Page*/
 .green {
 	background-color: olivedrab;
 }
 /*End of HALO Page*/
+
+
+
+/*Grand Theft Auto Page*/
+.olive {
+	background-color: darkolivegreen;
+}
+/*End of Grand Theft Auto Page*/
