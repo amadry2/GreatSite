@@ -15,24 +15,6 @@
 	margin-top: 40px;
 }
 
-
-/*End of General Info*/
-
-/*Super Mario Page*/
-.red {
-	background-color: tomato;
-}
-
-.PictureMario {
-	width: 16.8em;
-	height: 7.9em;
-	position: relative;
-	margin-left: 8.5em;
-	margin-right: 12em;
-}
-
-
-
 .Player4 {
     border: none;
     color: white;
@@ -61,21 +43,36 @@ a {
 a:hover {
 	font-color: dodgerblue;
 }
+/*End of General Info*/
+
+/*Super Mario Page*/
+.red {
+	background-color: tomato;
+}
+
+.PictureMario {
+	width: 16.8em;
+	height: 7.9em;
+	position: relative;
+	margin-left: 8.5em;
+	margin-right: 12em;
+}
 /*End of Super Mario Page*/
 
+/*Sizes*/
+.PictureSkyrim, .PictureSonic, .PictureMega, .PictureFinal, .PictureHalo {
+	width: 14.4em;
+	height: 8.5em;
+	position: relative;
+	margin-left: 7.5em;
+	margin-right: 10em;
+}
+/*End of Sizes*/
 
 
 /*Skyrim Page*/
 .gray {
 	background-color: gray;
-}
-
-.PictureSkyrim {
-	width: 16.8em;
-	height: 7.9em;
-	position: relative;
-	margin-left: 7em;
-	margin-right: 12em;
 }
 /*End of Skyrim Page*/
 
@@ -85,13 +82,29 @@ a:hover {
 .blue {
 	background-color: royalblue;
 }
-
-.PictureSonic {
-	width: 14.4em;
-	height: 8.5em;
-	position: relative;
-	margin-left: 7.5em;
-	margin-right: 10em;
-}
-
 /*End of Sonic the Hedgehog*/
+
+
+/*Megaman Page*/
+.blue2 {
+	background-color: dodgerblue;
+}
+/*End of Meg Man*/
+
+/*Final Fantasy Page*/
+.navy {
+	background-color: midnightblue;
+}
+/*End of Final Fantasy Page
+
+/*LOL Page*/
+.purple {
+	background-color: darkmagenta;
+}
+/*End of LOL page*/
+
+/*Halo Page*/
+.green {
+	background-color: olivedrab;
+}
+/*End of HALO Page*/
